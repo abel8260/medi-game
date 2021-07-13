@@ -1,6 +1,9 @@
 # medi-game
 ![Image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+Jogue agora: 
+
+https://medi-game.herokuapp.com/
 
 Este jogo é uma iniciativa Rock Studios.co em parceria com a marca Ebol. O jogo se trata de uma gamificaçao da meditaçao. É bem simples. 
 
