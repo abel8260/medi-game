@@ -8,7 +8,10 @@ Este jogo é uma iniciativa Rock Studios.co em parceria com a marca Ebol. O jogo
 Voce clica para entrar e depois clica para escolher seu nivel de dificuldade. Pode também ver seu tempo nesta seçao no botao perfil ou se precisar de mais ajuda va na seçao de documentaçao.
 
 ## LEVEL-DESIGN
+
 O jogo tem 6 niveis:
+
+![Image](https://apployd.herokuapp.com/img_geral/medgm-5-sc02.png)
 
 + 1x (15 MINUTOS +/-)
 + 2x (30 MINUTOS +/-)
