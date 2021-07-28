@@ -6,7 +6,7 @@
 <html>
 
 	<head>
-		<title>Home - choose</title>
+		<title>MEDIGAME - profile</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css"/>
         <style>
             #box1{
@@ -67,13 +67,14 @@
 
 
             
-            <div id="box2">
+                <div id="box2">
 
-                <p style= "text-align: center;"> piece of light </p>
+                    <p style= "text-align: center;"> piece of light </p>
 
-            </div>
-
-        </div>
+                </div>
+           
+     </div>
     </body>
 
+   
 </html>
