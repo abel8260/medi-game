@@ -4,7 +4,7 @@
     session_start(); 
 
       $nivelar= $_SESSION['tempo'];
-      $nivel = 90;
+      $nivel = 5;
       $_SESSION['tempo']= $nivel + $nivelar;
   /*
   session start inicia o movimento de sessao
@@ -57,13 +57,13 @@ href= index que identifica ua strig por meio do url
 
 
           <div class="w3-border">
-              <div id="myBar1" class="w3-container w3-red"  style="top:0px; left:0%; height:24px;width:100%"> 12 minutos</div>
+              <div id="myBar1" class="w3-container w3-red"  style="top:0px; left:0%; height:24px;width:100%">1 minutos</div>
           </div> 
           <div class="w3-border">
-              <div id="myBar2" class="w3-container w3-white" style="top:0px;left:20%;height:24px;width:100%">36 minutos</div>
+              <div id="myBar2" class="w3-container w3-white" style="top:0px;left:20%;height:24px;width:100%">3 minutos</div>
           </div> 
           <div class="w3-border">
-              <div id="myBar3" class="w3-container w3-blue" style="top:0px;left:80%;height:24px;width:100%"> 12 minutos</div>
+              <div id="myBar3" class="w3-container w3-blue" style="top:0px;left:80%;height:24px;width:100%">1 minutos</div>
           </div> 
             <!-- 
             3 divs- div é uma forma de organizaçao fora-contaner a  q usei.
@@ -74,7 +74,7 @@ href= index que identifica ua strig por meio do url
 
 
       <!--img-->
-        <img class="solo w3-spin"  width='20%' height='20%' src='../../img/boss-4.png' style='left:40%; top:45%; position:absolute; '/>
+        <img class="solo w3-spin"  width='20%' height='20%' src='../../img/boss-0.png' style='left:40%; top:45%; position:absolute; '/>
           
           <!--
             img-> html tag paraidentificar uma imagem
@@ -102,7 +102,7 @@ href= index que identifica ua strig por meio do url
           function move1() {
             var elem = document.getElementById("myBar1");
             var width = 1;
-            var id = setInterval(frame, 108000);
+            var id = setInterval(frame, 600);
             function frame() {
               if (width >= 100) {
                 clearInterval(id);
@@ -115,7 +115,7 @@ href= index que identifica ua strig por meio do url
           function move2() {
             var elem = document.getElementById("myBar2");
             var width = 1;
-            var id = setInterval(frame, 324000);
+            var id = setInterval(frame, 1800);
             function frame() {
               if (width >= 100) {
                 clearInterval(id);
@@ -128,7 +128,7 @@ href= index que identifica ua strig por meio do url
           function move3() {
             var elem = document.getElementById("myBar3");
             var width = 1;
-            var id = setInterval(frame, 108000);
+            var id = setInterval(frame, 600);
             function frame() {
               if (width >= 100) {
                 clearInterval(id);
