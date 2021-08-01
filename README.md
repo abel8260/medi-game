@@ -38,3 +38,4 @@ O perfil tem suas praticas por seçao e nick comum a todos para incentivar o per
  
  link para a appstore da marca Ebol: 
   ![Image](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white) : https://apployd.herokuapp.com/src/medgm/index.php
+
