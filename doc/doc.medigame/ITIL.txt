@@ -1,0 +1,38 @@
+Estrutura ITIL:
+
+Estratégia de serviço: 
+#requisitos: internet/tempo
+#necessidades: tempo 
+
+Projeto de serviço:
+#service-design: default  
+
+Transição de serviço:
+#mudanças na  organização:
+#foi criado  
+#foi feita a documentaçao    
+# 
+# 
+# 
+# 
+# 
+# 
+#        
+
+Operação de serviço: 
+#SLA:
+cliente::::::::::50%
+serviço::::::::::50%
+
+
+Melhoria continua:(a add)  
+widgets: 
+# alarme(TODO)[javascript]  
+# tempo gasto (DONE)
+# top 500 (TODO)
+# conta proprias  (TODO)
+# notification-red (TODO)
+# 
+# 
+# 
+#                 

@@ -1,0 +1,47 @@
+Técnica  SMART (aplicar a cada 15 dias)
+
+Seção S:
+WHO: EBOL
+WHAT:  JOGO DE MEDITAÇAO    
+WHEN:  MINICOPA-1R2C1.GIF  
+WHY: PROPORCIONAR PRAZER EM JOGAR E AUMENTAR O BEM ESTAR       
+WHERE: FORTALEZA   
+
+Seção M:
+//Prazos 
+
+(curto:/08
+#07/08
+
+
+(médio:/2021
+#10/08
+#08/08
+#13/08 - SMART  
+#16/08
+#19/08
+#22/08
+#25/08
+#28/08
+#31/08
+
+
+
+(longo:
+
+#03/09/21
+
+
+Seção A:
++(TODO) 
+#UX7
+#UI2
+#PACKAGE  
+
+Seção R:
++(DOING) 
+#DOCUMENTAÇAO     
+
+Seção T:
+META BENTA:    
+#03/09/21                 
