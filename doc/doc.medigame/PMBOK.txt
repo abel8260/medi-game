@@ -1,0 +1,101 @@
+BÁSICO: ###### MODELO KAMBAM COMPLETO
+
+PMBOK: #### DOCUMENTAÇÃO ####
+Inicio: 04/06/21
+planejamento:
+execução:docuemntaçao  
+monitoramento e controle:github
+Meta-benta: 03/08/21(encerramento)                         
+
+
+
+
+TODO:#################################################################
+TODO)KPI
+
+KPI-8) competividade: MÉDIA  
+
+KPI-9) efetividade: ALTA 
+
+KPI-6) lucratividade: BAIXA  
+
+KPI-5) qualidade: MEDIA ALTA   
+
+KPI-2) produtividade: NORMAL 
+
+	
+	
+TODO:PDCA
+#2: volta pdca no:1  ;
+#5: Ter pessoal qualificado;
+    status uo: CHECK
+#6: Dominar os metodos;
+	s tatus: CHECK 
+	
+	                
+TODO:SEO BASIC 
+palavra chave no conteudo
+[INDEX][SIM] 
+palavra chave no titulo
+[CHECK][SIM]  
+
+                 
+TODO: SOW
+previsão de teste:25/08/21  28/08/21  
+padrão de qualidade: medio
+
+TODO:   SEO TAXAS      ##############           
+tamanho do conteudo:(regra dos +45%)
+total de dominios de referencia:0
+taxa de rejeição: 87%;
+
+#########################################################
+
+DONE:
+=> V(1.00.04)
+
+
+PLAN:(DESIGN)
+=> VER WIDGETS
+
+
+BACKLOG:
+=> VER WIDGETS
+
+
+DEV++
+
+DOING:
+=> DOCUMENTAÇAO  
+
+DONE:
+=> FRONT-END
+=> RESPONSIVO
+
++++++++
+
+TEST:
+=> #MARCAR    
+
+DONE:
+=> 
+
+
+ANALYZE++
+TODO:
+=>BACK-END
+=>PAINEL-CMS
+  
+DOING:
+=> 
+
+DONE:
+=>
+
+++++++
+   
+
+  
+
+
+

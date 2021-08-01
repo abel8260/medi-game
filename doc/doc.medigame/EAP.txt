@@ -1,0 +1,31 @@
+EAP: ########################
+
+Por fazer: (ciclo de vida)
+
+
+Por entregar:
+(# TODO)
+#UX7
+#UI2
+#RELEASE 
+#PACKAGE 
+ 
+  
+
+Por subprojeto: (mini projeto)
+#PROFILE
+#DESAFIOS
+#BOSSES
+ 
+
+
+todo               
+#UX7
+#UI2
+#RELEASE 
+#PACKAGE  
+
+
+hibrida:(OBSERVAÇÕES)  
+#TENTAR DOCUMENTAR BEM[OK]
+ 

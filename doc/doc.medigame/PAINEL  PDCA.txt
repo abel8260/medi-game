@@ -1,0 +1,25 @@
+PAINEL PDCA:
+
+	#1: Fazer tudo planejado;
+	PLANEjamento: 0\A1
+	status uo: OK
+	descriçao:
+	#SIMPLES[OK]
+	#COMPLETO[OK]
+	#
+	#
+	#
+	#
+	#
+	#
+	   
+	
+
+	#3: membros integrados:
+	status NULL
+	descriçao  MEMBROS ESTAO FORA DE SERVIÇO   ;
+
+	#4: Fazer e checar;
+	todo:DOCUMENTAÇAO   
+	check:(OK)
+	

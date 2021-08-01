@@ -1,0 +1,12 @@
+SOW STATEMENT OF WORK
+Nome:  MEDI-GAME 
+resultado negociado: 03/09/2021 FINALIZADO  
+quantidade: 11 PAGES 
+descrição dos usos dos dados: FUNCIONAL  
+
+especificações técnicas: PHP, HEROKU, HTML CSS,JS
+compatibilidade: RESPONSIVO
+
+
+
+
