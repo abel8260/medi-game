@@ -1,5 +1,5 @@
-visitas diretas no site: N
-quantidade de páginas acessadas: N
+visitas diretas no site: S ( A FOI PUBLICADO)(PRECISA DE PAINEL CMS) 
+quantidade de páginas acessadas: N(PRECISA DE PAINEL CMS) 
 
 
 

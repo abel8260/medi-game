@@ -1,8 +1,8 @@
-page authority:1
+page authority:1 (posts relacionados ao medi-game) 
 
-autoridade do dominio: LOCAL    
+autoridade do dominio: WEB (Ja foi divulgado)   
 
-relevância de links relevancia  somada.
+relevância de links relevancia  somada. (lista de links)
 LISta:
 #FACEBOOK+4
 #
@@ -10,19 +10,18 @@ LISta:
 #
 #
 #
- 
-[INDEX][ 1 ]
+[INDEX][ 4 ]
 
 conteúdo  original e qualidade
-[STATUS UO: SIM] 
+[STATUS QUO: UM POUCO] {TEM OUTRO APP PARECIDO}
 tamanho de cconteudo
-[INDEX][11PGS]
+[INDEX][367FILES]{CONTADO}
 
-tempo de permanência na página INDEFINIDO
+tempo de permanência na página NULL{N TENHO EQUILIBRIO EMOCIONAL PRA MANTER UMA PAGE}
 
-velocidade de carregamento da pagina LONGA 
+velocidade de carregamento da pagina LONGA {STACK HEROKU É PESADA E PRECISASER CARREGADA INTEIRA, NGINX,APACHE, COMPOSER}       }
 
-design responsivo SIM
+design responsivo SIM{TRABALHEI MUITO  NISSO}
 
                       
 

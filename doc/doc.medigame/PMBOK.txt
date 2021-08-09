@@ -1,11 +1,11 @@
-BÁSICO: ###### MODELO KAMBAM COMPLETO
+BÁSICO: ###### MODELO KAMBAM COMPLETO (OU PMBOK)
 
 PMBOK: #### DOCUMENTAÇÃO ####
-Inicio: 04/06/21
-planejamento:
-execução:docuemntaçao  
-monitoramento e controle:github
-Meta-benta: 03/08/21(encerramento)                         
+Inicio: 04/06/21 (FAZ 2 MESES)
+planejamento: OK ( estao OK)
+execução:Documentaçao  
+monitoramento e controle:github (diretamente de la)
+Meta-benta: 20/08/21(encerramento)                         
 
 
 
@@ -13,46 +13,50 @@ Meta-benta: 03/08/21(encerramento)
 TODO:#################################################################
 TODO)KPI
 
-KPI-8) competividade: MÉDIA  
+KPI-8) competividade: MÉDIA (n tem mto meditador gamificado) 
 
-KPI-9) efetividade: ALTA 
+KPI-9) efetividade: MÉDIA (JA QUE SÓ SAO USADAS CONSTANTES) 
 
-KPI-6) lucratividade: BAIXA  
+KPI-6) lucratividade: ALTA (PLANOS DE MONETIZAÇAOAO DE VIR)  
 
-KPI-5) qualidade: MEDIA ALTA   
+KPI-5) qualidade: 4.5 STARS ( é bom mas n tem pessoal qualificado)
 
-KPI-2) produtividade: NORMAL 
+KPI-2) produtividade: NORMAL ( COM OS ALTOS E BAIXOS DE TODO PROGRAMADOR)  
 
 	
 	
 TODO:PDCA
-#2: volta pdca no:1  ;
+#2: volta pdca no:2;
 #5: Ter pessoal qualificado;
-    status uo: CHECK
+    status uo: uwnlead;  
 #6: Dominar os metodos;
 	s tatus: CHECK 
 	
 	                
-TODO:SEO BASIC 
+TODO:
+
+SEO BASIC 
 palavra chave no conteudo
-[INDEX][SIM] 
+[INDEX][nop] 
 palavra chave no titulo
-[CHECK][SIM]  
+[CHECK][nop]  
 
                  
 TODO: SOW
-previsão de teste:25/08/21  28/08/21  
-padrão de qualidade: medio
+previsão de teste:25/08/21 e 28/08/21  
+padrão de qualidade: ALTO 
 
-TODO:   SEO TAXAS      ##############           
+TODO:  
+######################## SEO TAXAS  ##############
+
 tamanho do conteudo:(regra dos +45%)
 total de dominios de referencia:0
-taxa de rejeição: 87%;
+taxa de rejeição: 40%;(100-60)
 
 #########################################################
 
 DONE:
-=> V(1.00.04)
+=> V(1.00.05)
 
 
 PLAN:(DESIGN)
@@ -69,13 +73,13 @@ DOING:
 => DOCUMENTAÇAO  
 
 DONE:
-=> FRONT-END
-=> RESPONSIVO
+=> FRONT-END (visual)
+=> RESPONSIVO (mobile)
 
 +++++++
 
 TEST:
-=> #MARCAR    
+=> 25/08/21 e 28/08/21   
 
 DONE:
 => 
@@ -83,8 +87,8 @@ DONE:
 
 ANALYZE++
 TODO:
-=>BACK-END
-=>PAINEL-CMS
+=>BACK-END (lado do servidor onde se alocam o armazenamento de info)
+=>PAINEL-CMS ( Painel de controle ou cPaneel como chamam)
   
 DOING:
 => 

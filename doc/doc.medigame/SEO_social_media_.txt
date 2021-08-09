@@ -1,17 +1,17 @@
 PARA MEDI-GAME    
 
-MEDIUM:/relevancia;
+MEDIUM:/relevancia;{BLOG DE ARTIGOS CIENTIFICIOS }
 
-LINKEDIN:/relevancia;
+LINKEDIN:/relevancia;{ REDE PROFISSIONAL DE SOCIAL MEDIA   }
                     
-FACEBOOK:/relevancia; 4
+FACEBOOK:/relevancia; 4 { REDE DE COMPARTILHAMENTO DE FOTOS PESSOAIS }
 
-YOUTUBE:/relevancia;
+YOUTUBE:/relevancia;{ REDE  DE ARMAZENAMENTO DE VIDEOS   }
 
-TWITTER TAGS:/relevancia;
+TWITTER TAGS:/relevancia;{ NOTICIAS }
 
-TWITTER:/relevancia;
+TWITTER:/relevancia;{ REDE DE COMPARTILA MENTOS DE NOTICIAS  }
 
-INSTAGRAM:/relevancia;                    
+INSTAGRAM:/relevancia; {REDE DE COMPARTILHAMENTOS DE FOTOS DE ALT PADRAO E MARKETING TRADICIONAL FREE)          }                   
 
-COMUNIDADES E FORUNS #1:/relevancia; 
+COMUNIDADES E FORUNS #1:/relevancia; ( REDES DE INFO)
