@@ -1,21 +1,35 @@
 EAP: ########################
+# Documentaçao EAP. Basica pra todo projeto 
+# pelos ciclos de vida e POST-TO-DO 
 
-Por fazer: (ciclo de vida)
-
-
+Por fazer: (ciclo de vida)(FASES )
+# FRONT-END (visual)
+# INDENTAÇAO 1(indentar n cautelosamente)
+# PD.PRJ (COMENTARIOS ELEVADOS O PROJETO)
+# INDETAÇAO 2 (INDETAÇÇAO UM POUCO MAIS METICULOSA)  
+# LEGIBILIDADE( ANALISE ESTÉTICA DO CODIGO)
+# INDENTAÇAO 3( INDETAÇAO PADRONIZADA E CAUTELOSA)
+# UI BASICO( APLICAR BIBLIOTECAS OU RENGENHARIA SVG)
+# 6 UI UX (6 SESSOES DE DESIGN SPRINT COM OS 4 TIMES INDIVIDUALMENTE
+PARA RECEBER O FEEDBACK tudo integrado no githun actions)  
+# CAMADA GROSSA DE UX( UX DESIGN E UI TAMBÉM)
+# PACKAGE(EXPORTAR PARA APK)
+# deploy (realizar todos os deploy status e deploys do github)
+# TRABALHO EM SEO (PERMANENTE ATK EM MARKETING DE PROJETO) 
+# WIDGETS (AUTOIMPROVE\1% )
 Por entregar:
 (# TODO)
-#UX7
-#UI2
-#RELEASE 
-#PACKAGE 
+#UX7 (ux6 +ux)
+#UI2 (ui +ui)
+#RELEASE (antecede package em apk)
+#PACKAGE (pacote podendo ser  qual for em lotes: esse em  apk)    
  
   
 
 Por subprojeto: (mini projeto)
-#PROFILE
-#DESAFIOS
-#BOSSES
+#PROFILE (perfil)
+#DESAFIOS (bosses)
+#BOSSES(inimigos primarios e demos )
  
 
 
@@ -27,5 +41,5 @@ todo
 
 
 hibrida:(OBSERVAÇÕES)  
-#TENTAR DOCUMENTAR BEM[OK]
+#TENTAR DOCUMENTAR BEM[OK][necessario demais]
  

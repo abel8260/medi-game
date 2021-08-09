@@ -1,23 +1,23 @@
-Estrutura ITIL:
+Estrutura ITIL: [docuentaçao agil de gestao de projetos]
 
-Estratégia de serviço: 
-#requisitos: internet/tempo
-#necessidades: tempo 
+Estratégia de serviço: desempenho do cliente e reforo posisitivo
+#requisitos: internet/tempo (ter net e ter tempo)
+#necessidades: tempo (um android suporte js também)
 
 Projeto de serviço:
-#service-design: default  
+#service-design: default(padrao, pouco adotado mas padrao)
 
 Transição de serviço:
-#mudanças na  organização:
+Mudanças na  organização:
 #foi criado  
 #foi feita a documentaçao    
-# 
-# 
-# 
-# 
-# 
-# 
-#        
+#embreve 
+#embreve
+# embreve
+# embreve
+# embreve
+# embreve
+# embreve
 
 Operação de serviço: 
 #SLA:
@@ -27,12 +27,9 @@ serviço::::::::::50%
 
 Melhoria continua:(a add)  
 widgets: 
-# alarme(TODO)[javascript]  
-# tempo gasto (DONE)
-# top 500 (TODO)
-# conta proprias  (TODO)
-# notification-red (TODO)
-# 
-# 
-# 
-#                 
+# alarme(TODO)[javascript] ( vai ter um alarme feito na linguagem a javascript mas é um TODO
+logo n é pra  agr) 
+# tempo gasto (DONE) (tempo gastado pelo usuario no jogo ja foi adicionado)
+# top 500 (TODO)(ranking dos primeiros 500 com maior tempo no app)
+# conta proprias  (TODO)(backend envolvido)
+# notification-red (TODO)(notification redos em tudo)

@@ -1,4 +1,4 @@
 SLA( service level agreement )
 nivel de fono no:
-cliente:::::::::: 50%
-serviço:::::::::: 50%
+cliente:::::::::: 50% (METADE NO CLIENTE )
+serviço:::::::::: 50% (METADE DO FOCO  NO SERVIÇO)  

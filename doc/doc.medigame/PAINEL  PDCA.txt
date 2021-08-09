@@ -1,11 +1,14 @@
 PAINEL PDCA:
 
-	#1: Fazer tudo planejado;
-	PLANEjamento: 0\A1
-	status uo: OK
-	descriçao:
-	#SIMPLES[OK]
-	#COMPLETO[OK]
+	#1: Fazer tudo planejado; (REGRA DE PDCA)
+
+	PLANEjamento: 0K (TUDO NOS CONFORMES)
+
+	status quo: FALTA DOCUMENTAÇAO (ESTAMOS TRABALHANDO NISSO)
+
+	descriçao: (descreva as caracteristicas do projeto)
+	#SIMPLES[OK](concluido)
+	#COMPLETO[off](n concluido,falta cms e outras coisas)
 	#
 	#
 	#
@@ -15,11 +18,11 @@ PAINEL PDCA:
 	   
 	
 
-	#3: membros integrados:
-	status NULL
-	descriçao  MEMBROS ESTAO FORA DE SERVIÇO   ;
+	#3: membros integrados:(membros)
+	status ATIVOS //estao operantes  
+	descriçao  EM PLENA COMUNICAÇAO; // e em funcionamento 
 
-	#4: Fazer e checar;
-	todo:DOCUMENTAÇAO   
-	check:(OK)
+	#4: Fazer e checar;(TESTE)
+	todo:DOCUMENTAÇAO //DOC
+	check:(MARCAR)// FOI MARCADO  
 	

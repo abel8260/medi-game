@@ -1,10 +1,10 @@
-KPI-1) meta: 1000 LEADS MENSAIS    
+KPI-1) meta: 1000 LEADS MENSAIS  (1000 pessoas interessadas por mes)/(necessarioCMS)  
 
-KPI-3) tolerância: 3 TENTATIVAS DE CONTATO 
+KPI-3) tolerância: 3 TENTATIVAS DE CONTATO (PRO FEEDBACK)
 
-KPI-4) capacidade: 10.000 LINHAS  
+KPI-4) capacidade: 10.000 LINHAS  (DATABASE)
 
-KPI-7) rentabilidade: NO MATTER 
-KPI-10) valor: TEMPO           
+KPI-7) rentabilidade: NO MATTER (SEM RELEVANCIA)
+KPI-10) valor: 2.6k
 
 
