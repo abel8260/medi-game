@@ -19,8 +19,8 @@ PAINEL PDCA:
 	
 
 	#3: membros integrados:(membros)
-	status ATIVOS //estao operantes  
-	descriçao  EM PLENA COMUNICAÇAO; // e em funcionamento 
+	status nop[projeto solo]  
+	descriçao  projeto de comunicaçao interna descartado       
 
 	#4: Fazer e checar;(TESTE)
 	todo:DOCUMENTAÇAO //DOC

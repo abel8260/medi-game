@@ -21,8 +21,8 @@ Por entregar:
 (# TODO)
 #UX7 (ux6 +ux)
 #UI2 (ui +ui)
-#RELEASE (antecede package em apk)
-#PACKAGE (pacote podendo ser  qual for em lotes: esse em  apk)    
+#RELEASE (pacote podendo ser  qual for em lotes: esse em  apk)
+    
  
   
 

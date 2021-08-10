@@ -19,7 +19,7 @@ KPI-9) efetividade: MÉDIA (JA QUE SÓ SAO USADAS CONSTANTES)
 
 KPI-6) lucratividade: ALTA (PLANOS DE MONETIZAÇAOAO DE VIR)  
 
-KPI-5) qualidade: 4.5 STARS ( é bom mas n tem pessoal qualificado)
+KPI-5) qualidade:5 STARS ( é bom mas n tem pessoal qualificado)
 
 KPI-2) produtividade: NORMAL ( COM OS ALTOS E BAIXOS DE TODO PROGRAMADOR)  
 
@@ -37,9 +37,9 @@ TODO:
 
 SEO BASIC 
 palavra chave no conteudo
-[INDEX][nop] 
+[INDEX][SIM] 
 palavra chave no titulo
-[CHECK][nop]  
+[CHECK][SIM]  
 
                  
 TODO: SOW
@@ -56,7 +56,7 @@ taxa de rejeição: 40%;(100-60)
 #########################################################
 
 DONE:
-=> V(1.00.05)
+=> V(1.00.07)
 
 
 PLAN:(DESIGN)
