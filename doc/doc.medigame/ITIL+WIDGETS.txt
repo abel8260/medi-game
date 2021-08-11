@@ -9,10 +9,10 @@ Projeto de serviço:
 
 Transição de serviço:
 Mudanças na  organização:
-#foi criado  
-#foi feita a documentaçao    
-#embreve 
-#embreve
+# foi criado  
+# foi feita a documentaçao    
+# embreve 
+# embreve
 # embreve
 # embreve
 # embreve
@@ -32,4 +32,4 @@ logo n é pra  agr)
 # tempo gasto (DONE) (tempo gastado pelo usuario no jogo ja foi adicionado)
 # top 500 (TODO)(ranking dos primeiros 500 com maior tempo no app)
 # conta proprias  (TODO)(backend envolvido)
-# notification-red (TODO)(notification redos em tudo)
+# notification-red (TODO)(notification BS needed em tudo)

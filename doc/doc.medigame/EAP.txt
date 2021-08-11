@@ -17,6 +17,7 @@ PARA RECEBER O FEEDBACK tudo integrado no githun actions)
 # deploy (realizar todos os deploy status e deploys do github)
 # TRABALHO EM SEO (PERMANENTE ATK EM MARKETING DE PROJETO) 
 # WIDGETS (AUTOIMPROVE\1% )
+# SEO
 Por entregar:
 (# TODO)
 #UX7 (ux6 +ux)
