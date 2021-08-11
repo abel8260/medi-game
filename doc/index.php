@@ -275,85 +275,126 @@
                     }
 
                     @media screen and (max-width:790px ){
-                        #box0{
-                        width:92%; height:37.5%; 
-                        left:4%; top:45%; position:absolute;
-                        background-image:url('../img/res0.jpg');
-                        background-size:100%;
-                        background-repeat:no-repeat; 
-                    }
+                      
 
-                    .sol1{
-                        width:  40% ;
-                        left:30%; top:15%;
-                    }
+                        .sol1{ /* that operator i use it to more than  an auxiliar for images and so on*/        
+                        width:40%;/* how large as 40%*/   
+                        left:30%;  /* 30% from entire width is left from the element that port sol1*/ 
+                        top:15%;/* 15% from entire height is the distance from top ok?*/ 
+                    }/* that } is to close the class sol1 input ok? lets go foward  */  
                     
+                    .sol2{/* that operator i use it to more than  an auxiliar for images and so on*/ 
+                        width:92%; /* how large as 40%*/  
+                        left:4%; /* 30% from entire width is left from the element that port sol2*/
+                        top:30%;/* 10% from entire height is the distance from top ok?*/ 
+                         margin-right:10% ;/* 10% of distance from margin right*/
+                          position:absolute; /* position editable */ 
+                          border: white 4px solid;  /* properties from border of that element */
+                    }/* that } is to close the class sol1 input ok? lets go foward  */
+
+                    .sol3{/* that operator i use it to more than  an auxiliar for images and so on*/
+                        left:80%; /* 80% from entire width is left from the element that port */
+                        top:15%; /* 10% from entire height is the distance from top ok?*/ 
+                        margin-right:10% ; /* 10% of distance from margin right*/
+                        position:absolute; /* position editable */
+                        border: white 4px solid;/* properties from border of that element */
+                        width:12.5%; /*how large as 40% from the screen */  
+                    }/* that } is to close the class sol1 input ok? lets go foward  */
+
                     
-                    .sol2{
-                        width:92%;
-                        left:4%; top:30%; margin-right:10% ; position:absolute; border: white 4px solid;
-                    }
+                    #box0{/* that initializes  the class box0 and { is for open the class*/     
+                        width: 92%; /* 92% from the entire width from screen */
+                        height:37.5%; /* 37.5% from entire height from screen */
+                        left:4%; /* 4% from the left  and 4% of entire width */ 
+                        top:45%;  /* 45% from the top and 45% of entire height */ 
+                        position:absolute; /* position editablee  */ 
+                        background-image:url('../../img/boss-0.png');/* defines a url string based to the path from the fiele*/   
+                        background-size:100%;  /* 100% of all size background  based in both: width and height */
+                        background-repeat:no-repeat; /* rule to not repeat the entire image onthe screen behind */   
+                    }/* that finalizes the class box0  and  } is for close the class */ 
 
-                    .sol3{
-                        left:80%; top:15%; margin-right:10% ; position:absolute; border: white 4px solid;
-                        width:12.5%;
-                    }
+                     
+                    #box1{/* that initializes  the class box1 and { is for open the class*/ 
+                        width:92%; /* 15% from the entire width from screen */
+                        height:37.5%; /* 20% from entire height from screen */
+                        left:4%; /* 30% from the left  and 30% of entire width */
+                        top:85%;  /* 30% from the top and 30% of entire height */ 
+                        position:absolute; /* position editablee  */
+                        background-image:url('../../img/boss-1.png');/* defines a url string based to the path from the fiele*/   
+                        background-size:100%;/* 100% of all size background  based in both: width and height */
+                        background-repeat:no-repeat; /* rule to not repeat the entire image onthe screen behind */   
+                    }/* that finalizes the class box0  and  } is for close the class */
+
+                    #box2{/* that initializes  the class box2 and { is for open the class*/ 
+                        width: 92%; /* 15% from the entire width from screen */
+                        height:37.5%; /* 20% from entire height from screen */
+                        left:4%;/* 50% from the left  and 50% of entire width */
+                        top:125%; /* 30% from the top and 30% of entire height */
+                        position:absolute; /* position editablee  */
+                        background-image:url('../img/boss-2.png');/* defines a url string based to the path from the fiele*/   
+                        background-size:100%;/* 100% of all size background  based in both: width and height */
+                        background-repeat:no-repeat; /* rule to not repeat the entire image onthe screen behind */  
+                    }/* that finalizes the class box0  and  } is for close the class */                
+
+
+                    #box3{/* that initializes  the class box3 and { is for open the class*/ 
+                        width:92%; /* 15% from the entire width from screen */
+                        height:37.5%; /* 20% from entire height from screen */
+                        left:4%; /* 70% from the left  and 70% of entire width */
+                        top:165%; /* 30% from the top and 30% of entire height */
+                        position:absolute; /* position editablee  */ 
+                        background-image:url('../../img/boss-3.png');/* defines a url string based to the path from the fiele*/   
+                        background-size:100%;/* 100% of all size background  based in both: width and height */
+                        background-repeat:no-repeat; /* rule to not repeat the entire image onthe screen behind */  
+                    }/* that finalizes the class box0  and  } is for close the class */
+
+
+                    #box4{/* that initializes  the class box4 and { is for open the class*/ 
+                        width: 92%; /* 15% from the entire width from screen */
+                        height:37.5%; /* 20% from entire height from screen */ 
+                        left:4%; /* 10% from the left  and 10% of entire width */
+                        top:205%; /* 65% from the top and 65% of entire height */
+                        position:absolute; /* position editablee  */ 
+                        background-image:url('../../img/boss-4.png');/* defines a url string based to the path from the fiele*/   
+                        background-size:100%;/* 100% of all size background  based in both: width and height */
+                        background-repeat:no-repeat; /* rule to not repeat the entire image onthe screen behind */  
+                    }/* that finalizes the class box0  and  } is for close the class */
+
+
+                    #box5{/* that initializes  the class box5 and { is for open the class*/ 
+                        width:92%; /* 15% from the entire width from screen */
+                        height:37.5%; /* 20% from entire height from screen */  
+                        left:4%;/* 30% from the left  and 30% of entire width */
+                        top:245%;  /* 65% from the top and 65% of entire height */
+                        position:absolute; /* position editablee  */ 
+                        background-image:url('../../img/boss-5.png');/* defines a url string based to the path from the fiele*/   
+                        background-size:100%;/* 100% of all size background  based in both: width and height */
+                        background-repeat:no-repeat; /* rule to not repeat the entire image onthe screen behind */  
+                    }/* that finalizes the class box0  and  } is for close the class */
+
+
+                    #box6{/* that initializes  the class box6 and { is for open the class*/ 
+                        width:92%; /* 15% from the entire width from screen */
+                        height:37.5%; /* 20% from entire height from screen */   
+                        left:4%; /* 50% from the left  and 50% of entire width */
+                        top:285%;  /* 65% from the top and 65% of entire height */
+                        position:absolute; /* position editablee  */ 
+                        background-image:url('../../img/boss-6.png');/* defines a url string based to the path from the fiele*/   
+                        background-size:100%;/* 100% of all size background  based in both: width and height */
+                        background-repeat:no-repeat; /* rule to not repeat the entire image onthe screen behind */  
+                    }/* that finalizes the class box0  and  } is for close the class */
+
                     
-                    #box1{
-                        width:92%; height:37.5%; 
-                        left:4%; top:85%; position:absolute;
-                        background-image:url('../img/res0.jpg');
-                        background-size:100%;
-                        background-repeat:no-repeat; 
-                    }
-
-                    #box2{
-                        width:92%; height:37.5%; 
-                        left:4%; top:125%; position:absolute;
-                        background-image:url('../img/res1.jpg');
-                        background-size:100%;
-                        background-repeat:no-repeat; 
-                    }
-
-                    #box3{
-                        width:92%; height:37.5%; 
-                        left:4%; top:165%; position:absolute; 
-                        background-image:url('../img/res2.jpg');
-                        background-size:100%;
-                        background-repeat:no-repeat; 
-                    }
-
-                    #box4{
-                        width:92%; height:37.5%; 
-                        left:4%; top:205%; position:absolute;
-                        background-image:url('../img/res3.jpg');
-                        background-size:100%;
-                        background-repeat:no-repeat; 
-                    }
-
-                    #box5{
-                        width:92%; height:37.5%; 
-                        left:4%; top:245%; position:absolute;
-                        background-image:url('../img/res4.jpg');
-                        background-size:100%;
-                        background-repeat:no-repeat; 
-                    }
-
-                    #box6{
-                        width:92%; height:37.5%; 
-                        left:4%; top:285%; position:absolute;
-                        background-image:url('../img/res5.jpg');
-                        background-size:100%;
-                        background-repeat:no-repeat; 
-                    }
-
-                    #box8{
-                        width:92%; height:37.5%; 
-                        left:4%; top:325%; position:absolute; 
-                        background-image:url('../img/res7.png');
-                        background-size:100%;
-                        background-repeat:no-repeat;    
-                    }
+                    #box8{/* that initializes  the class box8 and { is for open the class*/ 
+                        width:92%; /* 15% from the entire width from screen */
+                        height:37.5%; /* 20% from entire height from screen */  
+                        left:4%;  /* 70% from the left  and 70% of entire width */
+                        top:325%;  /* 65% from the top and 65% of entire height */
+                        position:absolute; /* position editablee  */
+                        background-image:url('../../img/boss-8.png');/* defines a url string based to the path from the fiele*/   
+                        background-size:100%;/* 100% of all size background  based in both: width and height */
+                        background-repeat:no-repeat; /* rule to not repeat the entire image onthe screen behind */  
+                    }/* that finalizes the class box0  and  } is for close the class */
                     
                     }  
                 </style>

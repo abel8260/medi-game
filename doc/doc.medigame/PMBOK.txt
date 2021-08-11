@@ -43,7 +43,7 @@ palavra chave no titulo
 
                  
 TODO: SOW
-previsão de teste:25/08/21 e 28/08/21  
+previsão de teste:25/08/21 e 28/08/21 (alt)  
 padrão de qualidade: ALTO 
 
 TODO:  
@@ -80,6 +80,7 @@ DONE:
 
 TEST:
 => 25/08/21 e 28/08/21   
+=> v(1.00.07)
 
 DONE:
 => 

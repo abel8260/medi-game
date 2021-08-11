@@ -121,7 +121,7 @@
                         left:10%; /* 10% from the left  and 10% of entire width */ 
                         top:30%;  /* 30% from the top and 30% of entire height */ 
                         position:absolute; /* position editablee  */ 
-                        background-image:url('../img/boss-0.png');/* defines a url string based to the path from the fiele*/   
+                        background-image:url('../../img/boss-0.png');/* defines a url string based to the path from the fiele*/   
                         background-size:100%;  /* 100% of all size background  based in both: width and height */
                         background-repeat:no-repeat; /* rule to not repeat the entire image onthe screen behind */   
                     }/* that finalizes the class box0  and  } is for close the class */     
@@ -132,7 +132,7 @@
                         left:30%; /* 30% from the left  and 30% of entire width */
                         top:30%;  /* 30% from the top and 30% of entire height */ 
                         position:absolute; /* position editablee  */
-                        background-image:url('../img/boss-1.png');/* defines a url string based to the path from the fiele*/   
+                        background-image:url('../../img/boss-1.png');/* defines a url string based to the path from the fiele*/   
                         background-size:100%;/* 100% of all size background  based in both: width and height */
                         background-repeat:no-repeat; /* rule to not repeat the entire image onthe screen behind */   
                     }/* that finalizes the class box0  and  } is for close the class */     
@@ -144,7 +144,7 @@
                         left:50%;/* 50% from the left  and 50% of entire width */
                         top:30%; /* 30% from the top and 30% of entire height */
                         position:absolute; /* position editablee  */
-                        background-image:url('../img/boss-2.png');/* defines a url string based to the path from the fiele*/   
+                        background-image:url('../../img/boss-2.png');/* defines a url string based to the path from the fiele*/   
                         background-size:100%;/* 100% of all size background  based in both: width and height */
                         background-repeat:no-repeat; /* rule to not repeat the entire image onthe screen behind */  
                     }/* that finalizes the class box0  and  } is for close the class */
@@ -155,7 +155,7 @@
                         left:70%; /* 70% from the left  and 70% of entire width */
                         top:30%; /* 30% from the top and 30% of entire height */
                         position:absolute; /* position editablee  */ 
-                        background-image:url('../img/boss-3.png');/* defines a url string based to the path from the fiele*/   
+                        background-image:url('../../img/boss-3.png');/* defines a url string based to the path from the fiele*/   
                         background-size:100%;/* 100% of all size background  based in both: width and height */
                         background-repeat:no-repeat; /* rule to not repeat the entire image onthe screen behind */  
                     }/* that finalizes the class box0  and  } is for close the class */
@@ -166,7 +166,7 @@
                         left:10%; /* 10% from the left  and 10% of entire width */
                         top:65%; /* 65% from the top and 65% of entire height */
                         position:absolute; /* position editablee  */ 
-                        background-image:url('../img/boss-4.png');/* defines a url string based to the path from the fiele*/   
+                        background-image:url('../../img/boss-4.png');/* defines a url string based to the path from the fiele*/   
                         background-size:100%;/* 100% of all size background  based in both: width and height */
                         background-repeat:no-repeat; /* rule to not repeat the entire image onthe screen behind */  
                     }/* that finalizes the class box0  and  } is for close the class */
@@ -177,7 +177,7 @@
                         left:30%;/* 30% from the left  and 30% of entire width */
                         top:65%;  /* 65% from the top and 65% of entire height */
                         position:absolute; /* position editablee  */ 
-                        background-image:url('../img/boss-5.png');/* defines a url string based to the path from the fiele*/   
+                        background-image:url('../../img/boss-5.png');/* defines a url string based to the path from the fiele*/   
                         background-size:100%;/* 100% of all size background  based in both: width and height */
                         background-repeat:no-repeat; /* rule to not repeat the entire image onthe screen behind */  
                     }/* that finalizes the class box0  and  } is for close the class */
@@ -188,7 +188,7 @@
                         left:50%; /* 50% from the left  and 50% of entire width */
                         top:65%;  /* 65% from the top and 65% of entire height */
                         position:absolute; /* position editablee  */ 
-                        background-image:url('../img/boss-6.png');/* defines a url string based to the path from the fiele*/   
+                        background-image:url('../../img/boss-6.png');/* defines a url string based to the path from the fiele*/   
                         background-size:100%;/* 100% of all size background  based in both: width and height */
                         background-repeat:no-repeat; /* rule to not repeat the entire image onthe screen behind */  
                     }/* that finalizes the class box0  and  } is for close the class */
@@ -199,7 +199,7 @@
                         left:70%;  /* 70% from the left  and 70% of entire width */
                         top:65%;  /* 65% from the top and 65% of entire height */
                         position:absolute; /* position editablee  */
-                        background-image:url('../img/boss-7.png');/* defines a url string based to the path from the fiele*/   
+                        background-image:url('../../img/boss-8.png');/* defines a url string based to the path from the fiele*/   
                         background-size:100%;/* 100% of all size background  based in both: width and height */
                         background-repeat:no-repeat; /* rule to not repeat the entire image onthe screen behind */  
                     }/* that finalizes the class box0  and  } is for close the class */
@@ -280,7 +280,7 @@
                         left:4%; /* 4% from the left  and 4% of entire width */ 
                         top:45%;  /* 45% from the top and 45% of entire height */ 
                         position:absolute; /* position editablee  */ 
-                        background-image:url('../img/boss-0.png');/* defines a url string based to the path from the fiele*/   
+                        background-image:url('../../img/boss-0.png');/* defines a url string based to the path from the fiele*/   
                         background-size:100%;  /* 100% of all size background  based in both: width and height */
                         background-repeat:no-repeat; /* rule to not repeat the entire image onthe screen behind */   
                     }/* that finalizes the class box0  and  } is for close the class */ 
@@ -292,7 +292,7 @@
                         left:4%; /* 30% from the left  and 30% of entire width */
                         top:85%;  /* 30% from the top and 30% of entire height */ 
                         position:absolute; /* position editablee  */
-                        background-image:url('../img/boss-1.png');/* defines a url string based to the path from the fiele*/   
+                        background-image:url('../../img/boss-1.png');/* defines a url string based to the path from the fiele*/   
                         background-size:100%;/* 100% of all size background  based in both: width and height */
                         background-repeat:no-repeat; /* rule to not repeat the entire image onthe screen behind */   
                     }/* that finalizes the class box0  and  } is for close the class */
@@ -315,7 +315,7 @@
                         left:4%; /* 70% from the left  and 70% of entire width */
                         top:165%; /* 30% from the top and 30% of entire height */
                         position:absolute; /* position editablee  */ 
-                        background-image:url('../img/boss-3.png');/* defines a url string based to the path from the fiele*/   
+                        background-image:url('../../img/boss-3.png');/* defines a url string based to the path from the fiele*/   
                         background-size:100%;/* 100% of all size background  based in both: width and height */
                         background-repeat:no-repeat; /* rule to not repeat the entire image onthe screen behind */  
                     }/* that finalizes the class box0  and  } is for close the class */
@@ -327,7 +327,7 @@
                         left:4%; /* 10% from the left  and 10% of entire width */
                         top:205%; /* 65% from the top and 65% of entire height */
                         position:absolute; /* position editablee  */ 
-                        background-image:url('../img/boss-4.png');/* defines a url string based to the path from the fiele*/   
+                        background-image:url('../../img/boss-4.png');/* defines a url string based to the path from the fiele*/   
                         background-size:100%;/* 100% of all size background  based in both: width and height */
                         background-repeat:no-repeat; /* rule to not repeat the entire image onthe screen behind */  
                     }/* that finalizes the class box0  and  } is for close the class */
@@ -339,7 +339,7 @@
                         left:4%;/* 30% from the left  and 30% of entire width */
                         top:245%;  /* 65% from the top and 65% of entire height */
                         position:absolute; /* position editablee  */ 
-                        background-image:url('../img/boss-5.png');/* defines a url string based to the path from the fiele*/   
+                        background-image:url('../../img/boss-5.png');/* defines a url string based to the path from the fiele*/   
                         background-size:100%;/* 100% of all size background  based in both: width and height */
                         background-repeat:no-repeat; /* rule to not repeat the entire image onthe screen behind */  
                     }/* that finalizes the class box0  and  } is for close the class */
@@ -351,7 +351,7 @@
                         left:4%; /* 50% from the left  and 50% of entire width */
                         top:285%;  /* 65% from the top and 65% of entire height */
                         position:absolute; /* position editablee  */ 
-                        background-image:url('../img/boss-6.png');/* defines a url string based to the path from the fiele*/   
+                        background-image:url('../../img/boss-6.png');/* defines a url string based to the path from the fiele*/   
                         background-size:100%;/* 100% of all size background  based in both: width and height */
                         background-repeat:no-repeat; /* rule to not repeat the entire image onthe screen behind */  
                     }/* that finalizes the class box0  and  } is for close the class */
@@ -363,123 +363,13 @@
                         left:4%;  /* 70% from the left  and 70% of entire width */
                         top:325%;  /* 65% from the top and 65% of entire height */
                         position:absolute; /* position editablee  */
-                        background-image:url('../img/boss-7.png');/* defines a url string based to the path from the fiele*/   
+                        background-image:url('../../img/boss-8.png');/* defines a url string based to the path from the fiele*/   
                         background-size:100%;/* 100% of all size background  based in both: width and height */
                         background-repeat:no-repeat; /* rule to not repeat the entire image onthe screen behind */  
                     }/* that finalizes the class box0  and  } is for close the class */
 
 
                     }  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                     
-
-                      
-
-                  
-                    
-
-                       
-
-                        
-
-
-                    
-
-                   
-
-                   
-
-                    
-
-                   
-
-                    
-
-                    #box0:hover, #box0:active { /* :hover the above situation; :active is pseudoclass to help the others in the interation*/      
-                        border: 4px solid white;/* properties of the border; */
-                        
-                    }
-
-                    #box1:hover, #box1:active {/* :hover the above situation; :active is pseudoclass to help the others in the interation*/      
-                        border: 4px solid white;/* properties of the border; */
-                        
-                    }
-
-                    #box2:hover, #box2:active{/* :hover the above situation; :active is pseudoclass to help the others in the interation*/      
-                        border: 4px solid white;/* properties of the border; */
-                        
-                    }
-
-                    #box3:hover, #box3:active{/* :hover the above situation; :active is pseudoclass to help the others in the interation*/      
-                        border: 4px solid white;/* properties of the border; */
-                        
-                    }
-                    #box4:hover, #box4:active{/* :hover the above situation; :active is pseudoclass to help the others in the interation*/      
-                        border: 4px solid white;/* properties of the border; */
-                        
-                    }
-
-                    #box5:hover, #box5:active{/* :hover the above situation; :active is pseudoclass to help the others in the interation*/      
-                        border: 4px solid white;/* properties of the border; */
-                        
-                    }
-
-                    #box6:hover, #box6:active{/* :hover the above situation; :active is pseudoclass to help the others in the interation*/      
-                        border: 4px solid white;/* properties of the border; */
-                        
-                    }
-
-                    #box8:hover, #box8:active{/* :hover the above situation; :active is pseudoclass to help the others in the interation*/      
-                        border: 4px solid white;/* properties of the border; */
-                        
-                    }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -502,9 +392,9 @@
                                     <!--------------------------->
 
                                         <div id="box-TITLE"> <!--box-de-titulo-div--------->
-                                            <a href="../src/profile/index.php"><img class="sol1"  width='9%' height='9.7%'' src='../../img/profile.png' /></a><!-----------------------><!--fim:-a--------------->
-                                            <a href="../src/home/index.php"/><img class="sol2"  width='40%' height='9.7%'' src='../../img/TITLE.png' style=' @media screen and (max-width:790px ){  }'/></a><!-----------------------><!--fim:-a--------------->
-                                            <a href='https://www.facebook.com/media/set/?vanity=abel.barbosa.23&set=a.4155241721221234'><img class="sol3"  width='4%' height='9.7%'' src='../../img/doc.png' /></a><!-----------------------><!--fim:-a--------------->
+                                            <a href="../../src/profile/index.php"><img class="sol1"  width='9%' height='9.7%'' src='../../img/profile.png' /></a><!-----------------------><!--fim:-a--------------->
+                                            <a href="../../src/home/index.php"/><img class="sol2"  width='40%' height='9.7%'' src='../../img/TITLE.png' style=' @media screen and (max-width:790px ){  }'/></a><!-----------------------><!--fim:-a--------------->
+                                            <a href='../../doc/index.php'/><img class="sol3"  width='4%' height='9.7%'' src='../../img/doc.png' /></a><!-----------------------><!--fim:-a--------------->
                                         </div>
 
                                         <!----------------------->

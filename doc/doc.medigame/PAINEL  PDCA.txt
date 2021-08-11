@@ -2,7 +2,7 @@ PAINEL PDCA:
 
 	#1: Fazer tudo planejado; (REGRA DE PDCA)
 
-	PLANEjamento: 0K (TUDO NOS CONFORMES)
+	PLANEjamento: 3 dias de atraso  (!)
 
 	status quo: FALTA DOCUMENTAÇAO (ESTAMOS TRABALHANDO NISSO)
 
