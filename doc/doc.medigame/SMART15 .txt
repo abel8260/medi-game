@@ -3,7 +3,7 @@ Técnica  SMART (aplicar a cada 15 dias)(PERIODICIDADE DE 15 DIAS  )
 Seção S:
 WHO: EBOL (ABEL BARBOSA)
 WHAT:  JOGO DE MEDITAÇAO( MEDI-GAME )   
-WHEN:  04/06/21 - 30/08/21
+WHEN:  04/06/21 - 01/09/21
 WHY: PROPORCIONAR PRAZER EM JOGAR E AUMENTAR O BEM ESTAR       
 WHERE: FORTALEZA   
 
@@ -44,4 +44,4 @@ Seção R:
 
 Seção T:
 META BENTA:    
-#30/08/21                 
+#01/08/21                 
