@@ -1,22 +1,28 @@
 <!--php-files------------>
 <!----------------------->
+
   <?php 
+
     session_start(); 
 
       $nivelar= $_SESSION['tempo'];
       $nivel = 15;
       $_SESSION['tempo']= $nivel + $nivelar;
+
     /*
     session start inicia o movimento de sessao
     a variavel $nivelar é um reaproveitamento da store //_SESSION
     a variavel $nivel armazena o valor inteiro 15 que é a quantidade de minutos
     e porfim é somada tudo a store session com key tempo.              
     */
+
   ?>
+
 <!----------------------->
 <!--fim:-php-files------->
 
 <!DOCTYPE html>
+
   <html>
 
 
@@ -60,13 +66,17 @@
                   <div id="myBar1" class="w3-container w3-red"  style="top:0px; left:0%; height:24px;width:100%"> 3 minutos</div>
               </div> 
 
+
               <div class="w3-border">
                   <div id="myBar2" class="w3-container w3-white" style="top:0px;left:20%;height:24px;width:100%">6 minutos</div>
               </div> 
               
+
               <div class="w3-border">
                   <div id="myBar3" class="w3-container w3-blue" style="top:0px;left:80%;height:24px;width:100%">3 minutos</div>
               </div> 
+
+
                 <!-- 
                 3 divs- div é uma forma de organizaçao fora-contaner a  q usei.
                 class- w3.css tem essa classe w3-border para que em conjunto com w3-container
@@ -76,6 +86,8 @@
 
 
           <!--img-->
+
+
             <img class="solo w3-spin"  width='20%' height='20%' src='../../img/boss-1.png' style='left:40%; top:45%; position:absolute; '/>
               
               <!--
@@ -86,6 +98,7 @@
                 src -> index que sugere o string identificador de string de caminho
                 style -> ja foi citado                    
               -->
+
           <!--END-->
 
             <!--BUTTONS-->
@@ -155,8 +168,6 @@
               }
             </script><!-- tag pra javascript -->      <!--faço questao de nao dominar -->    
 
-
-
       </body> <!-- tag pra finalizar a tag inicial -->   
 
-    </html><!-- tag pra finalizar a tag inicial --> 
+  </html><!-- tag pra finalizar a tag inicial --> 

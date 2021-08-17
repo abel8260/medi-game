@@ -1,17 +1,20 @@
 <!--php-files------------>
 <!----------------------->
-<?php 
+  <?php 
+
     session_start(); 
 
       $nivelar= $_SESSION['tempo'];
       $nivel = 30;
       $_SESSION['tempo']= $nivel + $nivelar;
+
     /*
     session start inicia o movimento de sessao
     a variavel $nivelar é um reaproveitamento da store //_SESSION
     a variavel $nivel armazena o valor inteiro 30 que é a quantidade de minutos
     e porfim é somada tudo a store session com key tempo.              
     */
+
   ?>
 <!----------------------->
 <!--fim:-php-files------->
@@ -143,8 +146,6 @@
                 }
               </script><!-- tag pra javascript -->      <!--faço questao de nao dominar -->    
 
-
-
       </body> <!-- tag pra finalizar a tag inicial -->   
 
-    </html><!-- tag pra finalizar a tag inicial --> 
+  </html><!-- tag pra finalizar a tag inicial --> 

@@ -19,7 +19,7 @@
 <!--END-->
 
 <!DOCTYPE html>
-  <html>
+
 
 
     <!--
@@ -28,6 +28,12 @@
     o html inicia o script em xhtml. 
 
     -->
+
+
+
+  <html>
+
+
 
       <head>
         <title>BATALHA</title>
@@ -62,13 +68,16 @@
                 <div id="myBar1" class="w3-container w3-red"  style="top:0px; left:0%; height:24px;width:100%"> ?? minutos</div>
             </div> 
 
+
             <div class="w3-border">
                 <div id="myBar2" class="w3-container w3-white" style="top:0px;left:20%;height:24px;width:100%"> ?? minutos</div>
             </div> 
 
+
             <div class="w3-border">
                 <div id="myBar3" class="w3-container w3-blue" style="top:0px;left:80%;height:24px;width:100%"> ?? minutos</div>
             </div> 
+
 
               <!-- 
               3 divs- div é uma forma de organizaçao fora-contaner a  q usei.
@@ -93,19 +102,19 @@
 
         <!--END-->
 
-          <!--BUTTONS-->
+        <!--BUTTONS-->
 
             <button class="w3-button w3-light-grey" onclick="move1()">fatality</button>
             <button class="w3-button w3-light-grey" onclick="move2()">atacar o life</button>
             <button class="w3-button w3-light-grey" onclick="move3()">atacar escudo</button>
 
-              <!--
-                button-> imprime um botao na tela    
-                onclick-> evento atributo de button tag
-                </ - fecha qualquer tag desde que acompanhada da tag inicial                          
-              -->
+                <!--
+                  button-> imprime um botao na tela    
+                  onclick-> evento atributo de button tag
+                  </ - fecha qualquer tag desde que acompanhada da tag inicial                          
+                -->
 
-          <!--END-->
+        <!--END-->
 
 
           <script>
@@ -158,9 +167,9 @@
               }
             }
 
-          </script><!-- tag pra javascript -->      <!--faço questao de nao dominar -->    
-
-
+          </script>
+       
+       <!-- tag pra javascript -->        
 
     </body> <!-- tag pra finalizar a tag inicial -->   
 

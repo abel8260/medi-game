@@ -74,29 +74,30 @@
 
 
             <!--img-->
-              <img class="solo w3-spin"  width='20%' height='20%' src='../../img/boss-4.png' style='left:40%; top:45%; position:absolute; '/>
+                <img class="solo w3-spin"  width='20%' height='20%' src='../../img/boss-4.png' style='left:40%; top:45%; position:absolute; '/>
                 
-                <!--
-                  img-> html tag paraidentificar uma imagem
-                  class -> html tag pra classificar, selecionar ou direcionar um ponteiro css. 
-                  width -> tamanho e largura
-                  height -> altura
-                  src -> index que sugere o string identificador de string de caminho
-                  style -> ja foi citado                    
-                -->
+                  <!--
+                    img-> html tag paraidentificar uma imagem
+                    class -> html tag pra classificar, selecionar ou direcionar um ponteiro css. 
+                    width -> tamanho e largura
+                    height -> altura
+                    src -> index que sugere o string identificador de string de caminho
+                    style -> ja foi citado                    
+                  -->
             <!--END-->
 
             <!--BUTTONS-->
 
-              <button class="w3-button w3-light-grey" onclick="move1()">fatality</button>
-              <button class="w3-button w3-light-grey" onclick="move2()">atacar o life</button>
-              <button class="w3-button w3-light-grey" onclick="move3()">atacar escudo</button>
+                <button class="w3-button w3-light-grey" onclick="move1()">fatality</button>
+                <button class="w3-button w3-light-grey" onclick="move2()">atacar o life</button>
+                <button class="w3-button w3-light-grey" onclick="move3()">atacar escudo</button>
 
-                <!--
-                  button-> imprime um botao na tela    
-                  onclick-> evento atributo de button tag
-                  </ - fecha qualquer tag desde que acompanhada da tag inicial                          
-                -->
+                  <!--
+                    button-> imprime um botao na tela    
+                    onclick-> evento atributo de button tag
+                    </ - fecha qualquer tag desde que acompanhada da tag inicial                          
+                  -->
+
             <!--END-->
 
 
@@ -151,11 +152,13 @@
                 }
 
               </script>
-            <!-- tag pra javascript -->      <!--faço questao de nao dominar -->    
+
+              <!-- tag pra javascript -->      
+                 
 
 
 
         </body> 
       <!-- tag pra finalizar a tag inicial -->   
 
-    </html><!-- tag pra finalizar a tag inicial --> 
+  </html><!-- tag pra finalizar a tag inicial --> 
