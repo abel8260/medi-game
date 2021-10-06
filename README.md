@@ -20,12 +20,12 @@ O jogo tem 6 niveis:
 
 ![Image](https://apployd.herokuapp.com/img_geral/medgm-5-sc02.png)
 
-+ 1x (15 MINUTOS +/-)
-+ 2x (30 MINUTOS +/-)
-+ 3x (45 MINUTOS +/-)
-+ 6x (90 MINUTOS +/-)
-+ DESAFIO   
-+ BOSS INCOGNITO 
++ 1x (15 minutos +/-);
++ 2x (30 minutos +/-);
++ 3x (45 minutos +/-);
++ 6x (90 minutos +/-);
++ desafio;    
++ boss incognito;
 
 Os 6 niveis visam o aprimoramento da autoconhecimento do individuo. 
 
